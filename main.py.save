@@ -1,0 +1,56 @@
+# Python RPS
+
+class Game():
+    def __init__() -> None:
+        self.gameBoard = [
+            [" ", " ", " "],
+            [" ", " ", " "],
+            [" ", " ", " "],
+            ]
+
+
+    def set(symbol: str, x: int, y: int) -> None:
+        x -= 1
+        y -= 1
+        self.gameBoard[x][y] = symbol
+
+
+    def check_win(self) -> str:
+        #columns
+        winner: str = "";
+        gb = self.gameBoard
+        for col in range(3):
+            if self.gameBoard[0][col] == self.gameBoard[1][col] == self.gameBoard[2][col] != " ":
+                winner = self.gameBoard[0][col]
+
+        #rows
+        for row in range(3):
+            if(gb[row][0] == gb[row][1] == gb[row][2] != " ":
+                winner = gb[row][0]
+        
+        #diagonals
+        if gb[0][0] == gb[1][1] == gb[2][2] != " ":
+            winner = gb[1][1]
+        elif gb[0][2] == gb[1][1] == gb[2][0] != " ":
+            winner = gb[1][1]
+        
+        if winner == "":
+            if is_full():
+               winner = "Tie"
+                      
+
+
+
+
+    def is_full(self) -> bool:
+        for i in range(3):
+            for j in range(3):
+               if (self.gameBoard[i][j] == " ":
+		return False
+        return True
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+/mnt/backup_disk/python/TTTCS/obj/Debug/net8.0/TTTCS.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/backup_disk/python/TTTCS/obj/Debug/net8.0/TTTCS.AssemblyInfoInputs.cache
+/mnt/backup_disk/python/TTTCS/obj/Debug/net8.0/TTTCS.AssemblyInfo.cs
+/mnt/backup_disk/python/TTTCS/obj/Debug/net8.0/TTTCS.csproj.CoreCompileInputs.cache
+/mnt/backup_disk/python/TTTCS/bin/Debug/net8.0/TTTCS
+/mnt/backup_disk/python/TTTCS/bin/Debug/net8.0/TTTCS.deps.json
+/mnt/backup_disk/python/TTTCS/bin/Debug/net8.0/TTTCS.runtimeconfig.json
+/mnt/backup_disk/python/TTTCS/bin/Debug/net8.0/TTTCS.dll
+/mnt/backup_disk/python/TTTCS/bin/Debug/net8.0/TTTCS.pdb
+/mnt/backup_disk/python/TTTCS/obj/Debug/net8.0/TTTCS.dll
+/mnt/backup_disk/python/TTTCS/obj/Debug/net8.0/refint/TTTCS.dll
+/mnt/backup_disk/python/TTTCS/obj/Debug/net8.0/TTTCS.pdb
+/mnt/backup_disk/python/TTTCS/obj/Debug/net8.0/TTTCS.genruntimeconfig.cache
+/mnt/backup_disk/python/TTTCS/obj/Debug/net8.0/ref/TTTCS.dll
