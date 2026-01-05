@@ -1,0 +1,30 @@
+# Build directories
+bin/
+obj/
+
+# Compiled files
+*.dll
+*.pdb
+*.exe
+
+# NuGet
+*.nupkg
+*.nuget.props
+*.nuget.targets
+*.nuget.dgspec.json
+project.assets.json
+project.nuget.cache
+
+# Generated files
+*.AssemblyInfo.cs
+*.GlobalUsings.g.cs
+*.assets.cache
+*.cache
+*.editorconfig
+*.runtimeconfig.json
+*.deps.json
+*.genruntimeconfig.cache
+*.FileListAbsolute.txt
+tempCodeRunnerFile.*
+*.swp
+*.fuse_hidden*
